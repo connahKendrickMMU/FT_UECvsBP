@@ -43,6 +43,6 @@ Test your might
 - This is a common optimisation step, done in most Unreal Engine based studios.
 
 # Reference
-Content is made by Connah Kendrick using the Unreal Engine 3rd Person Template for the MMU 1st year Game Mechanics Module taught to both Game Development and Game Design Students. 
+Content is made by Connah Kendrick (Connah.Kendrick@mmu.ac.uk) using the Unreal Engine 3rd Person Template for the MMU 1st year Game Mechanics Module taught to both Game Development and Game Design Students. 
 
 
