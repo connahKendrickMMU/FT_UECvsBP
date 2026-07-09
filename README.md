@@ -11,7 +11,7 @@ You will see that we never entirely remove Blueprints from the creation of objec
 With each of the versions, we have rigged three simple trigger boxes that use a print statement and a for loop to print out the current loop index and the time taken to perform the loop. What is important to realise is that Blueprints are not inherently slow, but rather the connections between the nodes that cause the performance decrease. Note, we are in engine, so this is not fully reflective of the final build performance, but can guide you.
 
 # Where to find the relevant scripts
-You can find the relevent Blueprints in two main ways:
+You can find the relevant Blueprints in two main ways:
 
 -Firstly, using the Outliner (Hierarchy in Unity), where I have created 3 folder for each of the script you should interact with, if you click Edit it will open the Blueprint. 
 
